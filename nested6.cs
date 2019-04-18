@@ -1,4 +1,4 @@
-﻿/*
+/*
  * Created by SharpDevelop.
  * User: 102660231
  * Date: 18/04/2019
@@ -38,4 +38,3 @@ namespace nested6
 
 		}
 	}
-}
